@@ -24,8 +24,9 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 </div>
 
 
-<img src="static/image/Figure1.png" width="90%">
-
+<div align="center">
+  <img src="static/image/Figure1.png" width="50%">
+</div>
 
 ## Audio Examples
 
