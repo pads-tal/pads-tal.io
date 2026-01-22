@@ -1,36 +1,81 @@
 ---
-layout: project_page
-permalink: /
-
-title: PADS-TAL Padding Annealed Diffusion Sampling in Text Aligned Latent for Robust and Diverse Text-to-Music Generation
-authors:
-    anonymous
-affiliations:
-    anonymous
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+layout: default
+title: PADS-TAL
+description: Padding Annealed Diffusion Sampling in Text Aligned Latent for Robust and Diverse Text-to-Music Generation
 ---
 
-<!-- Using HTML to center the abstract -->
-<div class="columns is-centered has-text-centered">
-    <div class="column is-four-fifths">
-        <h2>Abstract</h2>
-        <div class="content has-text-justified">
-Text-to-Music (T2M) diffusion models increasingly adopt Transformer backbones (DiT), 
-yet practical deployments often rely on short tag-style prompts and face persistent challenges: generations can collapse to limited patterns, while controlling diversity at inference time remains difficult under strict semantic requirements. Training-free sampling methods like CADS, while effective in Text-to-Image, can severely degrade alignment and fidelity in TTM because early-timestep perturbations strongly alter global musical attributes (e.g., genre, mood, structure). We propose two complementary solutions: Padding Annealed Diffusion Sampling (PADS), which injects timestep-dependent noise only into padding tokens while freezing semantic tokens to prevent semantic drift, and Text-Aligned Latent (TAL), a text-aware latent space learned via a redesigned VAE so diffusion sampling occurs near text-consistent neighborhoods. Together, PADS+TAL improve diversity while preserving prompt-aligned global attributes in TTM.
-        </div>
-    </div>
+<style>
+  .page-header {
+    background: linear-gradient(120deg, #667eea 0%, #764ba2 100%);
+  }
+  
+  .audio-table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  .audio-table th {
+    background-color: #667eea;
+    color: white;
+    padding: 12px;
+    text-align: center;
+  }
+  
+  .audio-table td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  .section-header {
+    background-color: #f5f7fa;
+    padding: 15px;
+    margin: 30px 0 20px 0;
+    border-left: 4px solid #667eea;
+  }
+  
+  .prompt-text {
+    font-style: italic;
+    color: #555;
+    margin: 10px 0;
+  }
+</style>
+
+# PADS-TAL: Padding Annealed Diffusion Sampling in Text Aligned Latent
+
+<div style="text-align: center; margin: 30px 0;">
+  <p><strong>Anonymous Submission</strong></p>
+  <p>
+    <a href="#paper">[Paper]</a> | 
+    <a href="#code">[Code]</a> | 
+    <a href="#data">[Data]</a>
+  </p>
 </div>
 
+---
+
+## Abstract
+
+Text-to-Music (T2M) diffusion models increasingly adopt Transformer backbones (DiT), yet practical deployments often rely on short tag-style prompts and face persistent challenges: generations can collapse to limited patterns, while controlling diversity at inference time remains difficult under strict semantic requirements. 
+
+Training-free sampling methods like CADS, while effective in Text-to-Image, can severely degrade alignment and fidelity in T2M because early-timestep perturbations strongly alter global musical attributes (e.g., genre, mood, structure). 
+
+We propose two complementary solutions:
+- **PADS (Padding Annealed Diffusion Sampling)**: Injects timestep-dependent noise only into padding tokens while freezing semantic tokens to prevent semantic drift
+- **TAL (Text-Aligned Latent)**: A text-aware latent space learned via a redesigned VAE so diffusion sampling occurs near text-consistent neighborhoods
+
+Together, PADS+TAL improve diversity while preserving prompt-aligned global attributes in T2M.
+
+---
 
 <div align="center">
-<img src=static/image/Figure11.png alt="model">
+  <img src="static/image/Figure11.png" alt="PADS-TAL Model Architecture" style="max-width: 90%; margin: 30px 0;">
 </div>
 
+---
 
-## Audio Examples
+
 
 ### Task 1: [Text-to-Music Generation with single Prompts]
 
