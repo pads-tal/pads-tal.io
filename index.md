@@ -424,27 +424,6 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
     <th>SA-CADS</th>
     <th>TAL-PADS (Ours)</th>
   </tr>
-  <!-- <tr>
-    <td><b>relaxing, background music, ambient, instrumental, tick-tock, acoustic,pizzicato, cinematic, zither</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SA-Original/acoustic/302_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SA-CADS/acoustic/302_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/acoustic/302_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr> -->
   <tr>
     <td><b>acoustic, relax, guitar, plucked string instrument,105 bpm, popular, instrumental, echo, musical instrument, gentle</b></td>
     <td>
@@ -817,27 +796,6 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
       </audio>
     </td>
   </tr>
-  <!-- <tr>
-    <td><b>vocal samples, sports, synthesizer, 125 bpm, drum machine, buzz, electronic music, electronic</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SA-Original/elec/94_4.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SA-CADS/elec/94_4.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/elec/94_4.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr> -->
   <tr>
     <td><b>upbeat, drum and bass, bass, musical instrument, aggressive, instrumental, sampler, electronic, cinematic, 125 bpm</b></td>
     <td>
