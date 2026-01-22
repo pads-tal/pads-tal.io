@@ -25,9 +25,7 @@ yet practical deployments often rely on short tag-style prompts and face persist
 </div>
 
 
-<div align="center">
-<img src=static/image/Figure11.png alt="model">
-</div>
+<img src="static/image/Figure11.png">
 
 
 ## Audio Examples
