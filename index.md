@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: PADS-TAL Padding Annealed Diffusion Sampling in Text Aligned Latent for Robust and Diverse Text-to-Music Generation
+title: PADS-TAL Padding-Augmented Diffusion Sampling in Text Aligned Latent Space for Robust and Diverse Text-to-Music Generation
 authors:
     anonymous
 affiliations:
@@ -18,14 +18,13 @@ data: https://huggingface.co/docs/datasets
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-Text-to-Music (T2M) diffusion models increasingly adopt Transformer backbones (DiT), 
-yet practical deployments often rely on short tag-style prompts and face persistent challenges: generations can collapse to limited patterns, while controlling diversity at inference time remains difficult under strict semantic requirements. Training-free sampling methods like CADS, while effective in Text-to-Image, can severely degrade alignment and fidelity in TTM because early-timestep perturbations strongly alter global musical attributes (e.g., genre, mood, structure). We propose two complementary solutions: Padding Annealed Diffusion Sampling (PADS), which injects timestep-dependent noise only into padding tokens while freezing semantic tokens to prevent semantic drift, and Text-Aligned Latent (TAL), a text-aware latent space learned via a redesigned VAE so diffusion sampling occurs near text-consistent neighborhoods. Together, PADS+TAL improve diversity while preserving prompt-aligned global attributes in TTM.
+Text-to-Music (T2M) diffusion models are increasingly used in real-world applications, yet reliable deployment remains challenging: generations can collapse to limited patterns, even across different random initial noise seeds, while controlling diversity at inference time remains difficult under strict semantic requirements. Training-free sampling methods such as Condition-Annealed Diffusion Sampling, while effective in Text-to-Image, can be brittle in T2M: increasing early-timestep perturbations often degrades text--audio alignment and fidelity, and does not reliably yield genre-faithful variations. We propose two complementary solutions: Padding-Augmented Diffusion Sampling (PADS), which keeps semantic token embeddings unperturbed and injects timestep-dependent noise only into a padding-indexed subspace, annealing it to zero over timesteps to minimize semantic corruption, and Text-Aligned Latent, a text-aware latent space learned via a redesigned VAE so diffusion sampling occurs in neighborhoods aligned with text-implied global semantics, especially genre. Together, our unified pipeline improves diversity in T2M while maintaining prompt alignment and preserving prompt-specified global attributes.
         </div>
     </div>
 </div>
 
 
-<img src="static/image/Figure11.png">
+<img src="static/image/Figure1.png">
 
 
 ## Audio Examples
