@@ -1204,27 +1204,6 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
     <th>Ours</th>
   </tr>
   <tr>
-    <td><b>speech, guitar, acoustic guitar, trap, instrumental, drums, love, 110 bpm, steel guitar, musical instrument, playful, relaxing</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/pop/272_6.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/pop/272_6.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/pop/272_6.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
     <td><b>110 bpm, bass guitar, hip hop, pop, drums</b></td>
     <td>
       <audio controls style="width: 200px;">
