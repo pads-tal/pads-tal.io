@@ -6,7 +6,7 @@ title: PADS-TAL Padding-Annealed Diffusion Sampling in Text Aligned Latent Space
 authors:
     anonymous
 affiliations:
-    anonymous
+    
 
 ---
 
