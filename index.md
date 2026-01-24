@@ -7,10 +7,7 @@ authors:
     anonymous
 affiliations:
     anonymous
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+
 ---
 
 <!-- Using HTML to center the abstract -->
