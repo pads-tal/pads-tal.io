@@ -39,7 +39,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
     <th>Sample</th>
     <th>Baseline</th>
     <th>CADS</th>
-    <th>Ours (PADS)</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>Sample 1</b></td>
@@ -134,7 +134,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
     <th>Sample</th>
     <th>Baseline</th>
     <th>CADS</th>
-    <th>Ours (PADS)</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>Sample 1</b></td>
@@ -227,9 +227,9 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 <table>
   <tr>
     <th>Sample</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Baseline</th>
+    <th>CADS</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>Sample 1</b></td>
@@ -322,9 +322,9 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 <table>
   <tr>
     <th>Sample</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Baseline</th>
+    <th>CADS</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>Sample 1</b></td>
@@ -420,9 +420,9 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 <table>
   <tr>
     <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Baseline</th>
+    <th>CADS</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>acoustic, relax, guitar, plucked string instrument,105 bpm, popular, instrumental, echo, musical instrument, gentle</b></td>
@@ -516,9 +516,9 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 <table>
   <tr>
     <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Baseline</th>
+    <th>CADS</th>
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>jazz,organ, piano, 110 bpm, emotional, musical instrument, romantic, nostalgic, longing, piano, organ, pizzicato, harp, heartfelt, moving</b></td>
@@ -632,10 +632,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>carol, christmas, calm, instrumental, 100 bpm, vibraphone, sad, musical instrument, guitar, piano, moving</b></td>
@@ -749,10 +749,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>upbeat, drum machine, electric piano, 125 bpm, dubstep</b></td>
@@ -845,10 +845,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>110 bpm, passionate, boing, emotional, soulful, electronic pop, speech, love</b></td>
@@ -962,10 +962,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>115 bpm, piano, synthesizer, new-age music, cello, soft, electric piano</b></td>
@@ -1079,10 +1079,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>SA-Original</th>
-    <th>SA-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>speech, guitar, acoustic guitar, trap, instrumental, drums, love, 110 bpm, steel guitar, musical instrument, playful, relaxing</b></td>
@@ -1195,10 +1195,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 
 <table>
   <tr>
-    <th>Prompt</th>
-    <th>TAL</th>
-    <th>TAL-CADS</th>
-    <th>TAL-PADS (Ours)</th>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>CADS</th>     
+    <th>Ours</th>
   </tr>
   <tr>
     <td><b>tropical house, drums, 105 bpm, animal, dance, piano</b></td>
