@@ -7,10 +7,7 @@ authors:
     anonymous
 affiliations:
     
-paper: 
-video: 
-code: 
-data: 
+
 ---
 
 <!-- Using HTML to center the abstract -->
