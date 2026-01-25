@@ -26,6 +26,10 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 </div>
 
 ## Audio Examples
+> **Baseline:** High audio quality but limited diversity, with occasional genre drift.  
+> **CADS:** Increased diversity but degraded audio quality, accompanied by genre drift.  
+> **Ours:** High audio quality and rich diversity, while strictly preserving genre consistency.
+
 ### Task 1: [Samples with single Prompts & Fixed Initial Noise]
 
 <table>
