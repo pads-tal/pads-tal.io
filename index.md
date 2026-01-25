@@ -42,7 +42,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-Original/task3/1120.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/1120_6.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -53,7 +53,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-CADS/task3/1120.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/1120_6.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -64,7 +64,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/TAL-PADS/task3/1120.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/1120_6.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -78,12 +78,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-Original/task3/39.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/39_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/39_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -94,12 +94,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-CADS/task3/39.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/39_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/39_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -110,12 +110,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/TAL-PADS/task3/39.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/39_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/39_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -129,7 +129,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-Original/task3/249.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/249_4.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -140,7 +140,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-CADS/task3/249.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/249_4.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -151,7 +151,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/TAL-PADS/task3/249.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/249_4.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -165,7 +165,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-Original/task3/314.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/314_9.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -176,7 +176,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-CADS/task3/314.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/314_9.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -187,7 +187,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/TAL-PADS/task3/314.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/314_9.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -201,12 +201,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-Original/task3/318.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/318_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task3/318_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -217,12 +217,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/SAO-CADS/task3/318.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/318_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task3/318_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -233,12 +233,12 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
         <source src="static/audio_samples/TAL-PADS/task3/318.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/318_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      <hr style="margin: 10px 0;">
+      <hr style="margin: 10px 0; border: none; border-top: 2px solid #333;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task3/318_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
