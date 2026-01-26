@@ -15,14 +15,17 @@ affiliations:
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-Text-to-Music (T2M) diffusion models are increasingly used in real-world applications, yet reliable deployment remains challenging: generations can collapse to limited patterns, even across different random initial noise seeds, while controlling diversity at inference time remains difficult under strict semantic requirements. Training-free sampling methods such as Condition-Annealed Diffusion Sampling, while effective in Text-to-Image, can be brittle in T2M: increasing early-timestep perturbations often degrades text--audio alignment and fidelity, and does not reliably yield genre-faithful variations. We propose two complementary solutions: Padding-Augmented Diffusion Sampling (PADS), which keeps semantic token embeddings unperturbed and injects timestep-dependent noise only into a padding-indexed subspace, annealing it to zero over timesteps to minimize semantic corruption, and Text-Aligned Latent, a text-aware latent space learned via a redesigned VAE so diffusion sampling occurs in neighborhoods aligned with text-implied global semantics, especially genre. Together, our unified pipeline improves diversity in T2M while maintaining prompt alignment and preserving prompt-specified global attributes.
+Text-to-Music diffusion models are increasingly used in real-world applications, yet deployment remains challenging: generations can collapse to limited patterns despite diverse initial noise and prompts, and inference-time diversity control often harms prompt alignment and fidelity by distorting key prompt cues established in early denoising.
+We propose Padding-Annealed Diffusion Sampling, which perturbs only a padding-indexed subspace while keeping non-padding conditioning fixed, enabling controlled exploration with reduced semantic drift.
+Still, in a text-unaware latent space, such exploration is less likely to stay within genre-faithful neighborhoods, limiting genre-consistent diversity. We therefore introduce Text-Aligned Latent, a text-aware VAE latent space that aligns local neighborhoods with text-implied global semantics. 
+Together, the two techniques form a unified pipeline that, compared to prior full-conditioning perturbation, achieves a better text-alignment–diversity trade-off: at comparable text alignment, it delivers 15.4% higher diversity with a relatively small fidelity drop, and further improves within-genre diversity by 71.6%.
         </div>
     </div>
 </div>
 
 
 <div align="center">
-  <img src="static/image/Figure1.png" width="50%">
+  <img src="static/image/Figure1.png" width="70%">
 </div>
 
 ## Audio Examples
