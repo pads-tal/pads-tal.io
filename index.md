@@ -646,82 +646,8 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 </table>
 
 
-#### Acoustic
 
-<table>
-  <tr>
-    <th>Prompt</th>
-    <th>Baseline</th>
-    <th>Ours</th>
-    <th>CADS</th>
-  </tr>
-  <tr>
-    <td><b>hopeful, synthesizer, mellow, acoustic, 85 bpm</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/acoustic/309_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/acoustic/309_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/acoustic/309_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td><b>relax, bass, acoustic, plucked string instrument, relaxed, musical instrument, contemplative</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/acoustic/311_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/acoustic/311_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/acoustic/311_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td><b>piano, guitar, 85 bpm, zither, folk, acoustic, harp, musical instrument, sentimental, emotional</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/acoustic/313_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/acoustic/313_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/acoustic/313_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-</table>
-
-
-#### Jazz
+<!-- #### Jazz
 
 <table>
   <tr>
@@ -814,7 +740,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
       </audio>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- #### Carol
@@ -1029,6 +955,79 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   </tr>
 </table>
 
+#### Acoustic
+
+<table>
+  <tr>
+    <th>Prompt</th>
+    <th>Baseline</th>
+    <th>Ours</th>
+    <th>CADS</th>
+  </tr>
+  <tr>
+    <td><b>hopeful, synthesizer, mellow, acoustic, 85 bpm</b></td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/acoustic/309_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/acoustic/309_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/acoustic/309_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>relax, bass, acoustic, plucked string instrument, relaxed, musical instrument, contemplative</b></td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/acoustic/311_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/acoustic/311_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/acoustic/311_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>piano, guitar, 85 bpm, zither, folk, acoustic, harp, musical instrument, sentimental, emotional</b></td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/acoustic/313_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/acoustic/313_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/acoustic/313_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
 
 #### New Age
 
@@ -1040,64 +1039,64 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
     <th>CADS</th>
   </tr>
   <tr>
-    <td><b>115 bpm, tranquil, new-age music, moving, piano, strings, melancholic, lullaby, emotional</b></td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/newage/182_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/newage/182_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/newage/182_0.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
     <td><b>emotional, new age, piano</b></td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/newage/184_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-Original/task2/newage/184_origin_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/newage/184_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/newage/184_mmave_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/newage/184_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task2/newage/184_cads.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
   <tr>
-    <td><b>musical instrument, emotional, piano, moving, peaceful, reflective, relaxed, calm, speech, sentimental, electric piano, new age</b></td>
+    <td><b>115 bpm, tranquil, new-age music, moving, piano, strings, melancholic, lullaby, emotional</b></td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/newage/189_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-Original/task2/newage/182_origin_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/newage/189_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/newage/182_mmave_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/newage/189_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task2/newage/182_cads.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>musical instrument, emotional, piano, moving, peaceful, reflective, relaxed, calm, sentimental, electric piano, new age</b></td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/newage/189_origin_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/newage/189_mmave_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/newage/189_cads.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
