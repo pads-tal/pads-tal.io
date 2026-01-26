@@ -28,7 +28,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
 ## Audio Examples
 > **Baseline:** Limited diversity despite high audio quality, with occasional genre mismatch.  
 > **CADS:** Enhanced diversity but degraded audio quality, suffering from semantic drift.  
-> **Ours:** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
+> **PADS (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
 
 ### Task 1: [Samples with single Prompts & Fixed Initial Noise]
 **Notice:** All samples are generated twice using the same intial seed; however, the intial seed differs across prompts.
@@ -37,7 +37,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -199,7 +199,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Sample</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -273,7 +273,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Sample</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -348,7 +348,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Sample</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -424,7 +424,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Sample</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -501,7 +501,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -576,7 +576,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -653,7 +653,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -749,7 +749,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -866,7 +866,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -961,7 +961,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>
     <th>Baseline</th>
-    <th>Ours</th>
+    <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr>
@@ -1035,7 +1035,7 @@ Text-to-Music (T2M) diffusion models are increasingly used in real-world applica
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>Ours</th>     
+    <th>PADS (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
