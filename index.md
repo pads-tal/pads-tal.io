@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text Aligned Latent Space for Robust and Diverse Samples"
+title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text Aligned Latent Space for Robust and Diverse Text-to-Music Generation"
 authors:
     anonymous
 affiliations:
