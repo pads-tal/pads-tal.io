@@ -198,144 +198,136 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 #### Input Prompt 1: tropical house, drums, 105 bpm, animal, dance, piano
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <th>Sample</th>
     <th>Baseline</th>
     <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
-  <tr>
-    <td><b>Sample 1</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1120_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1120_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1120_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 2</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1120_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1120_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1120_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 3</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1120_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1120_6.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1120_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-
 </table>
+
 #### Input Prompt 2: jazz, piano trio, swing, live recording feel, warm tone, improvisation
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <th>Sample</th>
     <th>Baseline</th>
     <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
-  <tr>
-    <td><b>Sample 1</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1114_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1114_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1114_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 2</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1114_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1114_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1114_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 3</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1114_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1114_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1114_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -344,157 +336,144 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   </tr>
 </table>
 
-
-
 #### Input Prompt 3: lofi, chill, vinyl noise, mellow, soft drums, warm chords, nostalgic
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <th>Sample</th>
     <th>Baseline</th>
     <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
-  <tr>
-    <td><b>Sample 1</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1115_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1115_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1115_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 2</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1115_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1115_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1115_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 3</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1115_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1115_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1115_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  
 </table>
-
 
 #### Input Prompt 4: hopeful, mellow, acoustic
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <th>Sample</th>
     <th>Baseline</th>
     <th>PADS (Ours)</th>
     <th>CADS</th>
   </tr>
-  <tr>
-    <td><b>Sample 1</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1121_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1121_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1121_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 2</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1121_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1121_4.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1121_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  <tr>
-    <td><b>Sample 3</b></td>
-    <td>
+  <tr style="border: none;">
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task1/1121_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/TAL-PADS/task1/1121_8.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
-    <td>
+    <td style="border: none;">
       <audio controls style="width: 200px;">
         <source src="static/audio_samples/SAO-CADS/task1/1121_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
-  
 </table>
 
 ### Task 3: [Samples with various Prompts & Random Initial Noise]
