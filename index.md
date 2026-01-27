@@ -201,7 +201,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 <table style="border-collapse: collapse;">
   <tr>
     <th>Baseline</th>
-    <th>PADS (Ours)</th>
+    <th>PADS-TAL (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr style="border: none;">
@@ -271,7 +271,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 <table style="border-collapse: collapse;">
   <tr>
     <th>Baseline</th>
-    <th>PADS (Ours)</th>
+    <th>PADS-TAL (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr style="border: none;">
@@ -341,7 +341,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 <table style="border-collapse: collapse;">
   <tr>
     <th>Baseline</th>
-    <th>PADS (Ours)</th>
+    <th>PADS-TAL (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr style="border: none;">
@@ -411,7 +411,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 <table style="border-collapse: collapse;">
   <tr>
     <th>Baseline</th>
-    <th>PADS (Ours)</th>
+    <th>PADS-TAL (Ours)</th>
     <th>CADS</th>
   </tr>
   <tr style="border: none;">
@@ -484,7 +484,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>PADS (Ours)</th>     
+    <th>PADS-TAL (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -559,7 +559,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>PADS (Ours)</th>     
+    <th>PADS-TAL (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -732,7 +732,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>PADS (Ours)</th>     
+    <th>PADS-TAL (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -849,7 +849,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>PADS (Ours)</th>     
+    <th>PADS-TAL (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
@@ -1018,7 +1018,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   <tr>
     <th>Prompt</th>     
     <th>Baseline</th>     
-    <th>PADS (Ours)</th>     
+    <th>PADS-TAL (Ours)</th>     
     <th>CADS</th>
   </tr>
   <tr>
