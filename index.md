@@ -25,7 +25,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 
 <div align="center">
-  <img src="static/image/Figure1.png" width="70%">
+  <img src="static/image/Figure1.png" width="60%">
 </div>
 
 ## Audio Examples
