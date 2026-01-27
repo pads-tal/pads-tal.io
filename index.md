@@ -200,9 +200,9 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 <table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: center;">Baseline</th>
-    <th style="text-align: center;">PADS (Ours)</th>
-    <th style="text-align: center;">CADS</th>
+    <th>Baseline</th>
+    <th>PADS (Ours)</th>
+    <th>CADS</th>
   </tr>
   <tr style="border: none;">
     <td style="border: none;">
@@ -270,9 +270,9 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 <table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: center;">Baseline</th>
-    <th style="text-align: center;">PADS (Ours)</th>
-    <th style="text-align: center;">CADS</th>
+    <th>Baseline</th>
+    <th>PADS (Ours)</th>
+    <th>CADS</th>
   </tr>
   <tr style="border: none;">
     <td style="border: none;">
@@ -340,9 +340,9 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 <table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: center;">Baseline</th>
-    <th style="text-align: center;">PADS (Ours)</th>
-    <th style="text-align: center;">CADS</th>
+    <th>Baseline</th>
+    <th>PADS (Ours)</th>
+    <th>CADS</th>
   </tr>
   <tr style="border: none;">
     <td style="border: none;">
@@ -410,9 +410,9 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 <table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: center;">Baseline</th>
-    <th style="text-align: center;">PADS (Ours)</th>
-    <th style="text-align: center;">CADS</th>
+    <th>Baseline</th>
+    <th>PADS (Ours)</th>
+    <th>CADS</th>
   </tr>
   <tr style="border: none;">
     <td style="border: none;">
