@@ -433,7 +433,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     </td>
     <td style="border: none;">
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task1/1121_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task1/1121_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -453,7 +453,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     </td>
     <td style="border: none;">
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task1/1121_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task1/1121_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
