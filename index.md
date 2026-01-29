@@ -2,7 +2,7 @@
 layout: project_page
 permalink: /
 
-title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text Aligned Latent Space for Robust and Diverse Text-to-Music Generation"
+title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation"
 authors:
     anonymous
 affiliations:
@@ -15,10 +15,10 @@ affiliations:
     <div class="column is-four-fifths">
         <h2>Abstract</h2>
         <div class="content has-text-justified">
-Text-to-Music diffusion models are increasingly used in real-world applications, yet deployment remains challenging: generations can collapse to limited patterns despite diverse initial noise and prompts, and inference-time diversity control often harms prompt alignment and fidelity by distorting key prompt cues established in early denoising.
-We propose Padding-Annealed Diffusion Sampling, which perturbs only a padding-indexed subspace while keeping non-padding conditioning fixed, enabling controlled exploration with reduced semantic drift.
-Still, in a text-unaware latent space, such exploration is less likely to stay within genre-faithful neighborhoods, limiting genre-consistent diversity. We therefore introduce Text-Aligned Latent, a text-aware VAE latent space that aligns local neighborhoods with text-implied global semantics. 
-Together, the two techniques form a unified pipeline that, compared to prior full-conditioning perturbation, achieves a better text-alignment–diversity trade-off: at comparable text alignment, it delivers 15.4% higher diversity with a relatively small fidelity drop, and further improves within-genre diversity by 71.6%.
+Text-to-Music diffusion models are increasingly used in real-world applications, yet deployment remains challenging: generations can collapse to limited patterns despite diverse initial noise and prompts, and inference-time diversity control often harms text alignment and fidelity by distorting key prompt cues established in early denoising.
+To address this, We propose Padding-Annealed Diffusion Sampling, which perturbs only a padding-indexed subspace while keeping non-padding conditioning fixed, enabling controlled exploration with reduced semantic drift.
+However, in a text-unaware VAE latent space, such exploration is less likely to stay within genre-faithful neighborhoods, limiting genre-consistent diversity. We therefore introduce Text-Aware Latent space that aligns local neighborhoods with text-implied genre structure, promoting genre-consistent diversity.
+Together, the two techniques form a unified pipeline that, compared to prior full-conditioning perturbation, achieves a better text alignment--diversity trade-off: at comparable text alignment, it delivers 15.4\% higher diversity with a relatively small fidelity drop, and further improves within-genre diversity by 71.6\%.
         </div>
     </div>
 </div>
