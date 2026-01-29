@@ -482,81 +482,6 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 ### Task 3: [Samples with various Prompts & Random Initial Noise]
 
-#### Electronic Pop
-
-<table>
-  <tr>
-    <th>Prompt</th>     
-    <th>Baseline</th>     
-    <th>PADS-TAL (Ours)</th>     
-    <th>CADS</th>
-  </tr>
-  <tr>
-    <td><b>110 bpm, passionate, boing, emotional, soulful, electronic pop, love</b></td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/elecpop/241_2.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/elecpop/241_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/elecpop/241_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
-    <td><b>saturday night, boing, electronic pop, double bass, 110 bpm, happiness, groovy, birthday, the synthesizer, piano, inside</b></td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/elecpop/243_5.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/elecpop/243_6.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/elecpop/243_5.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>funky, guitar, electronic pop, 110 bpm, positive, musical instrument, groovy, outside, boing, upbeat</b></td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/elecpop/246_8.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/elecpop/246_8.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/elecpop/246_8.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-</table>
-
 #### Pop
 
 <table>
@@ -567,22 +492,22 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     <th>CADS</th>
   </tr>
   <tr>
-    <td><b>inspiring, pop, guitar, 110 bpm, musical instrument, acoustic guitar, dance</b></td>
+    <td><b>110 bpm, bass guitar, hip hop, pop, drums</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/pop/276_9.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-Original/task2/pop/273_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/pop/276_4.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/pop/273_0.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/pop/276_9.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task2/pop/273_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -608,27 +533,28 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
       </audio>
     </td>
   </tr>
-   <tr>
-    <td><b>110 bpm, bass guitar, hip hop, pop, drums</b></td>
+  <tr>
+    <td><b>inspiring, pop, guitar, 110 bpm, musical instrument, acoustic guitar, dance</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-Original/task2/pop/273_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-Original/task2/pop/276_9.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/pop/273_0.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/pop/276_4.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/SAO-CADS/task2/pop/273_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/SAO-CADS/task2/pop/276_9.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
   </tr>
+
 </table>
 
 
@@ -706,6 +632,83 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     </td>
   </tr>
 </table>
+
+#### Electronic Pop
+
+<table>
+  <tr>
+    <th>Prompt</th>     
+    <th>Baseline</th>     
+    <th>PADS-TAL (Ours)</th>     
+    <th>CADS</th>
+  </tr>
+  <tr>
+    <td><b>110 bpm, passionate, boing, emotional, soulful, electronic pop, love</b></td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/elecpop/241_2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/elecpop/241_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/elecpop/241_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>saturday night, boing, electronic pop, double bass, 110 bpm, happiness, groovy, birthday, the synthesizer, piano, inside</b></td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/elecpop/243_5.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/elecpop/243_6.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/elecpop/243_5.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>funky, guitar, electronic pop, 110 bpm, positive, musical instrument, groovy, outside, boing, upbeat</b></td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-Original/task2/elecpop/246_8.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/elecpop/246_8.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/SAO-CADS/task2/elecpop/246_8.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+
 
 #### New Age
 
