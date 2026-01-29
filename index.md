@@ -35,7 +35,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 
 
 ### Task 1: [Samples with single Prompts & Fixed Initial Noise]
-**Notice:** All samples are generated twice using the same intial seed; however, the intial seed differs across prompts.
+**Notice:** All samples are generated twice using the same initial seed; however, the initial seed differs across prompts.
 
 <table>
   <tr>
