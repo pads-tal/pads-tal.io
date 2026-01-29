@@ -84,34 +84,34 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     <td><b>groove, 125 bpm, dance, upbeat, happy, musical instrument</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-Original/task3/5_-7445_mmvae-origin_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-Original/task3/5_1_-7445_mmvae-origin_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <br>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-Original/task3/5_-7445_mmvae-origin_2.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-Original/task3/5_1_-7445_mmvae-origin_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/task3/5_-7445_mmvae-pads_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/task3/5_1_-7445_mmvae-pads_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <br>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/task3/5_-7445_mmvae-pads_2.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-PADS/task3/5_1_-7445_mmvae-pads_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-CADS/task3/5_-7445_mmvae-cads_1.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-CADS/task3/5_1_-7445_mmvae-cads_1.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
       <br>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-CADS/task3/5_-7445_mmvae-cads_2.mp3" type="audio/mpeg">
+        <source src="static/audio_samples/TAL-CADS/task3/5_1_-7445_mmvae-cads_2.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
