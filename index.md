@@ -117,42 +117,6 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     </td>
   </tr>
   <tr>
-    <td><b>piano, 100 bpm, double bass, light, calm</b></td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-Original/task3/7_-1234_mmvae-origin_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <br>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-Original/task3/7_-1234_mmvae-origin_2.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/task3/7_-1234_mmvae-pads_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <br>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-PADS/task3/7_-1234_mmvae-pads_4.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-CADS/task3/7_-1234_mmvae-cads_1.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-      <br>
-      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
-        <source src="static/audio_samples/TAL-CADS/task3/7_-1234_mmvae-cads_3.mp3" type="audio/mpeg">
-        Your browser does not support the audio element.
-      </audio>
-    </td>
-  </tr>
-  <tr>
     <td><b>timpani, soundtrack, 125 bpm, soothing, ambient</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
@@ -184,6 +148,42 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
       <br>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
         <source src="static/audio_samples/TAL-CADS/task3/4_42_mmvae-cads_8.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td><b>piano, 100 bpm, double bass, light, calm</b></td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-Original/task3/7_-1234_mmvae-origin_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <br>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-Original/task3/7_-1234_mmvae-origin_2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/task3/7_-1234_mmvae-pads_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <br>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-PADS/task3/7_-1234_mmvae-pads_4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-CADS/task3/7_-1234_mmvae-cads_1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      <br>
+      <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
+        <source src="static/audio_samples/TAL-CADS/task3/7_-1234_mmvae-cads_3.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
