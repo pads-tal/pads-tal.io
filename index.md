@@ -492,7 +492,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     <th>CADS</th>
   </tr>
   <tr>
-    <td><b>110 bpm, passionate, boing, emotional, soulful, electronic pop, speech, love</b></td>
+    <td><b>110 bpm, passionate, boing, emotional, soulful, electronic pop, love</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task2/elecpop/241_2.mp3" type="audio/mpeg">
@@ -513,7 +513,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
     </td>
   </tr>
   <tr>
-    <td><b>saturday night, boing, electronic pop, speech, double bass, 110 bpm, happiness, groovy, birthday, the synthesizer, piano, inside</b></td>
+    <td><b>saturday night, boing, electronic pop, double bass, 110 bpm, happiness, groovy, birthday, the synthesizer, piano, inside</b></td>
     <td>
       <audio controls controlsList="nodownload" oncontextmenu="return false;" style="width: 200px;">
         <source src="static/audio_samples/SAO-Original/task2/elecpop/243_5.mp3" type="audio/mpeg">
