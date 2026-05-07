@@ -784,3 +784,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
   </tr>
 </table>
 
+<p class="has-text-centered is-size-7 has-text-grey" style="margin-top: 2rem;">
+  The audio samples above were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
+</p>
+
