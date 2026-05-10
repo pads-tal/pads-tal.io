@@ -5,9 +5,7 @@ permalink: /
 title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation"
 authors:
     Taekoan Yoo * 1, Wonkyung Jung * 1, Kyunghun Kim * 1, Kyeongbo Kong 2
-affiliations:
-    1 AI Tech Lab., NHN Corp., Seongnam-si, Gyeonggi-do, Republic of Korea
-    2 Pusan National University, Busan, Republic of Korea
+affiliations: "1 AI Tech Lab., NHN Corp., Seongnam-si, Gyeonggi-do, Republic of Korea <br> 2 Pusan National University, Busan, Republic of Korea"
 
 ---
 
@@ -34,6 +32,9 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 > **CADS:** Enhanced diversity but degraded audio quality, suffering from semantic drift.  
 > **PADS (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
 
+<p class="has-text-centered is-size-7 has-text-grey" style="margin-bottom: 1rem;">
+  The audio samples above were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
+</p>
 
 ### Task 1: [Samples with single Prompts & Fixed Initial Noise]
 **Notice:** All samples are generated twice using the same initial seed; however, the initial seed differs across prompts.
