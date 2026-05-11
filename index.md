@@ -33,7 +33,7 @@ Together, the two techniques form a unified pipeline that, compared to prior ful
 > **PADS (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
 
 <p class="has-text-centered is-size-7 has-text-grey" style="margin-bottom: 1rem;">
-  The audio samples above were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
+  The audio samples below were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
 </p>
 
 ### Task 1: [Samples with single Prompts & Fixed Initial Noise]
