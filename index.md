@@ -4,8 +4,8 @@ permalink: /
 
 title: "PADS-TAL: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation"
 authors:
-    Taekoan Yoo * 1, Wonkyung Jung * 1, Kyunghun Kim * 1, Kyeongbo Kong 2
-affiliations: "1 AI Tech Lab., NHN Corp., Seongnam-si, Gyeonggi-do, Republic of Korea <br> 2 Pusan National University, Busan, Republic of Korea"
+    Taekoan Yoo <sup>*</sup>, Wonkyung Jung <sup>*</sup>, Kyunghun Kim <sup>*</sup>, Kyeongbo Kong
+affiliations: ""
 
 ---
 
