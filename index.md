@@ -34,6 +34,7 @@ Together, the two techniques form a unified pipeline that, compared to prior met
 > **PADS-TAL (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
 
 
+
 <p class="has-text-centered is-size-7 has-text-grey" style="margin-bottom: 1rem;">
   The audio samples below were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
 </p>
