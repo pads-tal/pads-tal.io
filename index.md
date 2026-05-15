@@ -30,7 +30,7 @@ Together, the two techniques form a unified pipeline that, compared to prior met
 ## Audio Examples
 > **Baseline:** Limited diversity despite high audio quality, with occasional genre mismatch.  
 > **CADS:** Enhanced diversity but degraded audio quality, suffering from semantic drift.  
-> **PADS (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.  
+> **PADS (Ours):** Achieves rich diversity and high audio quality.  
 > **PADS-TAL (Ours):** Achieves rich diversity and high audio quality while maintaining strict genre consistency.
 
 
