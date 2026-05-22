@@ -36,6 +36,8 @@ Together, the two techniques form a unified pipeline that, compared to prior met
 ---
 
 ## 4. Experimental Setup & Demo Prompts
+> **Note:** The audio samples were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
+
 The demo webpage showcases three main evaluation tasks across different prompts (excluding audio samples):
 
 ### Task 1: Samples with Single Prompts & Fixed Initial Noise
