@@ -2,6 +2,13 @@
 
 This repository contains the source code for the project website of **PADS-TAL**, presented at **ICML 2026**.
 
+🔗 **[Demo Page (Website)](https://pads-tal.github.io/PADS-TAL.io/)**
+
+> [!IMPORTANT]
+> **Note on Audio Samples:** The audio samples demonstrated on the project website and stored in this repository were produced by a generative model as demonstration outputs. **Unauthorized reproduction or use is prohibited.**
+> 
+> **Usage Restriction on `static/audio_samples`:** Any unauthorized copy, reproduction, modification, distribution, or commercial use of the audio assets located in the `static/audio_samples/` directory is strictly prohibited.
+
 ---
 
 ## 1. Abstract
@@ -35,50 +42,28 @@ Together, the two techniques form a unified pipeline that, compared to prior met
 
 ---
 
-## 4. Experimental Setup & Demo Prompts
-> **Note:** The audio samples were produced by a generative model as demonstration outputs. Unauthorized reproduction or use is prohibited.
+## 4. Experimental Setup
+The demo webpage showcases three main evaluation tasks:
 
-The demo webpage showcases three main evaluation tasks across different prompts (excluding audio samples):
-
-### Task 1: Samples with Single Prompts & Fixed Initial Noise
-*   **Goal:** Evaluates the diversity and fidelity of generated samples given the same initial seed under a specific prompt.
-*   **Prompts Used:**
-    *   `tropical house, drums, 105 bpm, dance`
-    *   `timpani, soundtrack, 125 bpm, soothing, ambient`
-    *   `groove, 125 bpm, dance, upbeat, happy, musical instrument`
-    *   `piano, 100 bpm, double bass, light, calm`
-
-### Task 2: Samples with Single Prompts & Random Initial Noise
-*   **Goal:** Evaluates the diversity of generated samples under random noise initialization.
-*   **Prompts Used:**
-    *   **Prompt 1:** `lofi, chill, vinyl noise, mellow, soft drums, warm chords, nostalgic`
-    *   **Prompt 2:** `tropical house, drums, 105 bpm, animal, dance, piano`
-    *   **Prompt 3:** `jazz, piano trio, swing, live recording feel, warm tone, improvisation`
-    *   **Prompt 4:** `hopeful, mellow, acoustic`
-
-### Task 3: Samples with Various Prompts & Random Initial Noise
-*   **Goal:** Evaluates within-genre diversity across multiple genre-specific prompts.
-*   **Prompts by Genre:**
-    *   **Pop**
-        *   `110 bpm, bass guitar, hip hop, pop, drums`
-        *   `pop, electric guitar, bass guitar, synthesizer, 110 bpm, funky, plucked string instrument`
-        *   `inspiring, pop, guitar, 110 bpm, musical instrument, acoustic guitar, dance`
-    *   **Electronic**
-        *   `upbeat, drum machine, electric piano, 125 bpm, dubstep`
-        *   `upbeat, drum and bass, bass, musical instrument, aggressive, instrumental, sampler, electronic, cinematic, 125 bpm`
-        *   `synthesizers, inspiring, 125 bpm, summer, spray, waterfall, electronic`
-    *   **Electronic Pop**
-        *   `110 bpm, passionate, boing, emotional, soulful, electronic pop, love`
-        *   `saturday night, boing, electronic pop, double bass, 110 bpm, happiness, groovy, birthday, the synthesizer, piano, inside`
-        *   `funky, guitar, electronic pop, 110 bpm, positive, musical instrument, groovy, outside, boing, upbeat`
-    *   **New Age**
-        *   `emotional, new age, piano`
-        *   `115 bpm, tranquil, new-age music, moving, piano, strings, melancholic, lullaby, emotional`
-        *   `musical instrument, emotional, piano, moving, peaceful, reflective, relaxed, calm, sentimental, electric piano, new age`
+*   **Task 1: Samples with Single Prompts & Fixed Initial Noise**
+    *   **Goal:** Evaluates the diversity and fidelity of generated samples given the same initial seed under a specific prompt.
+*   **Task 2: Samples with Single Prompts & Random Initial Noise**
+    *   **Goal:** Evaluates the diversity of generated samples under random noise initialization.
+*   **Task 3: Samples with Various Prompts & Random Initial Noise**
+    *   **Goal:** Evaluates within-genre diversity across multiple genre-specific categories (Pop, Electronic, Electronic Pop, and New Age).
 
 ---
 
-## 5. Citation & Researchers
-*   **Authors:** Taekoan Yoo*, Wonkyung Jung*, Kyunghun Kim*, Kyeongbo Kong (* Equal contribution)
-*   **Affiliation:** Computer Vision & Signal Processing (CVSP) Lab, Pusan National University
-*   **Venue:** International Conference on Machine Learning (ICML) 2026
+## Citation
+If you find this repository useful, please cite the paper.
+
+```bibtex
+@inproceedings{
+    yoo2026padstal,
+    title={{PADS}-{TAL}: Padding-Annealed Diffusion Sampling in Text-Aware Latent Space for Robust and Diverse Text-to-Music Generation},
+    author={Yoo, Taekoan and Jung, Wonkyung and Kim, Kyunghun and Kong, Kyeongbo},
+    booktitle={Forty-third International Conference on Machine Learning},
+    year={2026},
+    url={https://openreview.net/forum?id=c0iisI5tJj}
+}
+```
