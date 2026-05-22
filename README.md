@@ -11,30 +11,7 @@ This repository contains the source code for the project website of **PADS-TAL**
 
 ---
 
-## 1. Abstract
-Text-to-Music diffusion models are increasingly used in real-world applications, yet deployment remains challenging: generations can collapse to limited patterns even with diverse initial noise and prompts, and inference-time diversity control often harms text alignment and fidelity by distorting key prompt cues established in early denoising.
-
-To address this, we propose **Padding-Annealed Diffusion Sampling (PADS)**, which perturbs only a padding-indexed subspace while keeping non-padding conditioning fixed, enabling controlled exploration with reduced semantic drift.
-
-However, in a text-unaware VAE latent space, such exploration is less likely to stay within genre-faithful neighborhoods, limiting genre-consistent diversity. We therefore introduce **Text-Aware Latent (TAL)** space that aligns local neighborhoods with text-implied genre structure, promoting genre-consistent diversity.
-
-Together, the two techniques form a unified pipeline that, compared to prior methods that perturb the full conditioning, achieves a better text alignment–diversity trade-off: at comparable text alignment, it delivers **15.4% higher diversity** with a relatively small fidelity drop, and further improves within-genre diversity by **71.6%**.
-
----
-
-## 2. Key Methods
-
-### ① PADS (Padding-Annealed Diffusion Sampling)
-*   **Mechanism:** Instead of perturbing the entire text conditioning, PADS perturbs only the **padding-indexed subspace** (padding tokens) while keeping the non-padding conditioning fixed.
-*   **Effect:** Enables controlled exploration with reduced semantic drift, maintaining key prompt cues while improving generation diversity.
-
-### ② TAL (Text-Aware Latent Space)
-*   **Mechanism:** Aligns local neighborhoods in the VAE latent space with the text-implied genre structure.
-*   **Effect:** Restricts exploration to genre-faithful neighborhoods, promoting genre-consistent diversity.
-
----
-
-## 3. Evaluation Models
+## 1. Evaluation Models
 *   **Baseline:** High audio quality but limited diversity, with occasional genre mismatches.
 *   **CADS:** Enhanced diversity, but suffers from semantic drift and degraded audio quality.
 *   **PADS (Ours):** Achieves rich diversity while maintaining high audio quality.
@@ -42,7 +19,7 @@ Together, the two techniques form a unified pipeline that, compared to prior met
 
 ---
 
-## 4. Experimental Setup
+## 2. Experimental Setup
 The demo webpage showcases three main evaluation tasks:
 
 *   **Task 1: Samples with Single Prompts & Fixed Initial Noise**
